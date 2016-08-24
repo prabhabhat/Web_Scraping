@@ -1,0 +1,70 @@
+---Question :1---
+Write a method that takes in a positive integer, return the number of 2s between 0 and the input number. 
+
+If the input value given is 13, it should return 2 as the number 2 and 12 are between 0 and 13.
+
+If the input value given is 21, it should return 3 as the number 2,12 and 20 are between 0 and 21.
+
+Amazon
+Jr. Software Engineer
+Java
+EndOfQuestion
+
+---Question :2---
+This question is windows based subsystem design to test the design skills. We are working in a complex system which involves multiple process, DLLs, windows services which will be gets installed on our system with the project. We have to design a logger system for this project where in all the multiple subsystem can use this logger system for their logging activities . 
+Design pattern used
+ 	Statically linked or Dynamically linked?
+	How the logger functions are designed (sample signatures)
+	How we can improve performance while logging (Think of ETL tracing)
+
+Microsoft
+Member Technical Staff
+design
+EndOfQuestion
+
+---Question :3---
+Finding Peak element in an array
+
+Amazon
+SDE1
+EndOfQuestion
+
+---Question :4---
+write a program to accept a value for 4x4 matrix. find the total of matrix, minimum and maximum number in matrix
+
+C
+EndOfQuestion
+
+---Question :5---
+Given a tree, and a pointer to some node in the tree, print the left most element in the same level as that node
+
+Microsoft
+SDE-2
+Algorithm
+EndOfQuestion
+
+---Question :6---
+I was asked the following question. Design a high throughput system where it is possible for users to transfer money from one account to other on 
+
+single thread
+multiple thread.
+
+I think the solution with mutex is a bad idea and making the whole thing run within the critical section. Other alternatives are appreciated.
+
+Computer Science
+EndOfQuestion
+
+---Question :7---
+Given two sorted linked lists of integers write an algorithm to merge the two linked lists such that the resulting linked list is in sorted order. You are expected to define the data structure for linked list as well. Analyze the time and space complexity of the merge algorithm.
+
+Facebook
+Software Engineer
+Data Structures
+EndOfQuestion
+
+---Question :8---
+For typical word ladder problem to get the shortest path, BFS has complexity exponential to the word string length. How to optimize?
+
+Linkedin
+Algorithm
+EndOfQuestion
